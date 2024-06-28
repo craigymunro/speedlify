@@ -6,7 +6,6 @@ module.exports = {
 		frequency: 1440, //once per day
 	},
 	urls: [
-		"https://www.ign.com/",
     "https://www.gamespot.com/",
     "https://www.polygon.com/",
     "https://www.gameinformer.com/",
