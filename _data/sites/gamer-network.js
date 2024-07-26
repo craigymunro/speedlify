@@ -11,6 +11,6 @@ module.exports = {
     "https://www.vg247.com/",
     "https://www.gamesindustry.biz/",
     "https://www.dicebreaker.com/",
-    "https://www.thepopverse.com/"
+    "https://www.digitalfoundry.net/"
   ]
 };
