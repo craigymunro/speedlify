@@ -8,7 +8,6 @@ module.exports = {
 	urls: [
     "https://www.gamespot.com/",
     "https://www.polygon.com/",
-    "https://www.gameinformer.com/",
     "https://www.kotaku.com/",
     "https://www.gamerant.com/"
   ]
