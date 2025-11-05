@@ -3,7 +3,7 @@ module.exports = {
   description: "Hookshot sites",
   options: {
     runs: 1,
-    frequency: 1440, //once per day
+    frequency: 10080, //once per week
   },
   urls: [
     "https://www.nintendolife.com/",

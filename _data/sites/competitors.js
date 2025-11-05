@@ -3,12 +3,11 @@ module.exports = {
 	description: "Competitor sites",
 	options: {
 		runs: 1,
-		frequency: 1440, //once per day
+		frequency: 10080, //once per week
 	},
 	urls: [
-    "https://www.gamespot.com/",
-    "https://www.polygon.com/",
-    "https://www.kotaku.com/",
-    "https://www.gamerant.com/"
+    "https://www.gamespot.com",
+    "https://www.polygon.com",
+    "https://kotaku.com",
   ]
 };

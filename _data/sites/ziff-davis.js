@@ -3,10 +3,9 @@ module.exports = {
 	description: "Ziff Davis sites",
 	options: {
 		runs: 1,
-		frequency: 1440, //once per day
+		frequency: 10080, //once per week
 	},
 	urls: [
-		"https://www.ign.com/",
     "https://mashable.com/",
     "https://lifehacker.com/",
     "https://www.askmen.com/",

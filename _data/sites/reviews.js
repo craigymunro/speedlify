@@ -3,7 +3,7 @@ module.exports = {
 	description: "GTA 5 reviews",
 	options: {
 		runs: 1,
-		frequency: 1440, //once per day
+		frequency: 10080, //once per week
 	},
 	urls: [
     "https://www.eurogamer.net/grand-theft-auto-5-review",
